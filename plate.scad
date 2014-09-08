@@ -1,0 +1,3 @@
+use <hook.scad>
+
+hook();
