@@ -1,3 +1,3 @@
 use <hook.scad>
 
-hook();
+assembly();
